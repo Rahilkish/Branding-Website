@@ -10,11 +10,8 @@ export default defineConfig({
   ],
   resolve: {
     alias: {
-      // Matches the paths configuration in your tsconfig.json
-      '@': path.resolve(__dirname, './'),
+      '@/': path.resolve(__dirname, './'),
     },
   },
-  // IMPORTANT: Replace this string with your exact GitHub repository name
-  // Example: If your URL is https://username.github.io/my-portfolio/, use '/my-portfolio/'
-  base: '/<Rahilkish/Branding-Website>/', 
+  base: '/Branding-Website/', 
 });
