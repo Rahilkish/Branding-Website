@@ -16,5 +16,5 @@ export default defineConfig({
   },
   // IMPORTANT: Replace this string with your exact GitHub repository name
   // Example: If your URL is https://username.github.io/my-portfolio/, use '/my-portfolio/'
-  base: '/<YOUR-REPO-NAME>/', 
+  base: '/<Rahilkish/Branding-Website>/', 
 });
